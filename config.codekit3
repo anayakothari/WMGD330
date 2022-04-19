@@ -25,12 +25,12 @@
       "oAP" : "\/Deploy\/build\/.gitignore",
       "oF" : 0
     },
-    "\/Dev\/index.html" : {
+    "\/Deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/Dev\/index.html",
+      "oAP" : "\/Deploy\/index.html",
       "oF" : 0
     },
     "\/Dev\/index.kit" : {
@@ -45,7 +45,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/Dev\/Section-1.html",
       "oF" : 0
     }
