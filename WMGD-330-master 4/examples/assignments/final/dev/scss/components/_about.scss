@@ -1,0 +1,41 @@
+.about-image {
+    margin-top: 63px;
+    margin-bottom: 87px;
+    width: 100%;
+
+    @include md {
+        margin-bottom: 60px;
+
+    }
+
+}
+
+.about-text {
+    /* Title */
+
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+
+    /* 064209 */
+
+    color: #064209;
+
+    @include lg {
+        font-size: 32px;
+        line-height: 40px;
+
+    }
+}
+
+.about {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;
+
+}
