@@ -398,3 +398,6 @@ textarea {
 /* =============
     Navigation
 ============= */
+h3 {
+  justify-content: center;
+  text-align: center; }

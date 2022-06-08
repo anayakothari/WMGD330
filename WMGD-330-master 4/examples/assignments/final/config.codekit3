@@ -42,6 +42,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/images\/Group73.png" : {
+      "ft" : 32768,
+      "iS" : 1117462,
+      "oA" : 0,
+      "oAP" : "\/deploy\/images\/Group73.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/images\/image1.png" : {
       "ft" : 32768,
       "iS" : 64183,
@@ -368,6 +381,22 @@
       "oAP" : "\/dev\/components\/about.html",
       "oF" : 0
     },
+    "\/dev\/components\/content.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/content.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/content.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/content.html",
+      "oF" : 0
+    },
     "\/dev\/components\/header.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -382,6 +411,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/header.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/services.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/services.html",
       "oF" : 0
     },
     "\/dev\/components\/testimonial.kit" : {
@@ -494,6 +531,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/dev\/scss\/components\/_content.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_content.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/dev\/scss\/components\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -579,6 +631,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_services.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_services.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
