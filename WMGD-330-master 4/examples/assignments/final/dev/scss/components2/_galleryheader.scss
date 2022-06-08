@@ -1,0 +1,12 @@
+.gallery-header {
+    width: 1440px;
+    height: 178px;
+    left: 0px;
+    top: 0px;
+    margin-bottom: 97px;
+
+    @include md {
+        margin-bottom: 60px;
+
+    }
+}

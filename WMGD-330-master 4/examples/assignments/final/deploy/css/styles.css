@@ -407,7 +407,13 @@ ul {
 ============= */
 h3 {
   justify-content: center;
-  text-align: center; }
+  text-align: center;
+  background-image: url(deploy/images/Rectangle3.png);
+  background-position: center;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center; }
 
 .contact {
   background-color: #7F9892; }
@@ -428,3 +434,21 @@ ul {
   justify-content: center; }
   ul li {
     padding: 5px; }
+
+.h2 {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center; }
+
+.gallery-header {
+  width: 1440px;
+  height: 178px;
+  left: 0px;
+  top: 0px;
+  margin-bottom: 97px; }
+  @media (min-width: 768px) {
+    .gallery-header {
+      margin-bottom: 60px; } }
