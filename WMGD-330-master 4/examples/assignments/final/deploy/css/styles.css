@@ -416,17 +416,21 @@ h3 {
   justify-content: center; }
 
 .contact {
-  background-color: #7F9892; }
+  background-color: #A8C0BB; }
   .contact form input {
     border-style: none;
     background-color: #F8F5EC;
     border-radius: 5px;
     padding: 20px; }
   .contact .input-1 {
-    padding-left: 700px; }
+    padding-left: 0px;
+    border-left: 800px; }
   .contact button {
     border-style: none;
     padding: 20px; }
+
+.contact-text {
+  padding-left: 650px; }
 
 ul {
   list-style: none;
