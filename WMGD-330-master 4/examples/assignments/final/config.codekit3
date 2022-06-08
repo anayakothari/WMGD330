@@ -29,6 +29,16 @@
       "oAP" : "\/deploy\/gallery.html",
       "oF" : 0
     },
+    "\/deploy\/images\/Facebook-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/images\/Facebook-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/images\/Group72.png" : {
       "ft" : 32768,
       "iS" : 481180,
@@ -250,6 +260,26 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/images\/insta-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/images\/insta-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/images\/pinterest-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/images\/pinterest-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/images\/Rectangle.png" : {
       "ft" : 32768,
       "iS" : 301429,
@@ -354,6 +384,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/images\/yelp-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/images\/yelp-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -381,6 +421,14 @@
       "oAP" : "\/dev\/components\/about.html",
       "oF" : 0
     },
+    "\/dev\/components\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/contact.html",
+      "oF" : 0
+    },
     "\/dev\/components\/content.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -395,6 +443,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/content.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/footer.html",
       "oF" : 0
     },
     "\/dev\/components\/header.html" : {
@@ -526,6 +582,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_buttons.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_contact.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_contact.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
